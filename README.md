@@ -12,10 +12,10 @@ meteor add hybrid:icons
 ## Usage
 ```
 {{> icon 
-    ios=icons__ios__arrow
-    android=icons__android__arrow
-    mac=icons__mac__arrow
-    windows=icons__windows__arrow
-    default=icons__ios__arrow
+    ios="icons__ios__arrow"
+    android="icons__android__arrow"
+    mac="icons__mac__arrow"
+    windows="icons__windows__arrow"
+    default="icons__ios__arrow"
 }}
 ```
