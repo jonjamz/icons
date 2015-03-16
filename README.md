@@ -11,15 +11,20 @@ Platform specific icons
 meteor add hybrid:icons
 ```
 
+## Definition
+```
+Icons.add("arrow", {
+  ios:     "icons__ios__arrow",
+  android: "icons__android__arrow",
+  mac:     "icons__mac__arrow",
+  windows: "icons__windows__arrow",
+  default: "icons__ios__arrow"
+});
+```
+
 ## Usage
 ```
-{{> icon 
-    ios="icons__ios__arrow"
-    android="icons__android__arrow"
-    mac="icons__mac__arrow"
-    windows="icons__windows__arrow"
-    default="icons__ios__arrow"
-}}
+{{> icon name="arrow" rotate="90"}}
 ```
 
 ## Platform Specific Icon Sources
