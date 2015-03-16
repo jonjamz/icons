@@ -21,3 +21,7 @@ meteor add hybrid:icons
     default="icons__ios__arrow"
 }}
 ```
+
+## Platform Specific Icon Sources
+* [Material Design Icons](https://github.com/google/material-design-icons)
+* [Icon8](http://icons8.com/)
