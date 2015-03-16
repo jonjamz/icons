@@ -24,4 +24,5 @@ meteor add hybrid:icons
 
 ## Platform Specific Icon Sources
 * [Material Design Icons](https://github.com/google/material-design-icons)
+* [Windows Icons](https://github.com/winjs/winjs/tree/master/src/fonts)
 * [Icon8](http://icons8.com/)
