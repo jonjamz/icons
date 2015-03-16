@@ -2,7 +2,7 @@
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/meteorhybrid/platform?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-Platform specific icons
+Every platform has its own aesthetic. To build a serious app for that platform, you need to use icons that match up with its particular style. Hybrid Icons lets you define icons for each platform under a single nickname. You can then use that nickname throughout your templates, and the correct icon for the currently active platform will be displayed automatically.
 
 ![demo](http://i.imgur.com/WaxGg1M.png)
 
