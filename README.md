@@ -24,7 +24,9 @@ Icons.add("arrow", {
 
 ## Usage
 ```
+{{> icon name="arrow"}}
 {{> icon name="arrow" rotate="90"}}
+{{> icon name="arrow" rotate="90" container="circle"}}
 ```
 
 ## Platform Specific Icon Sources
