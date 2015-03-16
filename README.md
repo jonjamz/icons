@@ -4,6 +4,8 @@
 
 Platform specific icons
 
+![demo](http://i.imgur.com/WaxGg1M.png)
+
 ## Installation
 ```
 meteor add hybrid:icons
